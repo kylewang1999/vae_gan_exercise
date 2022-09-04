@@ -1,0 +1,25 @@
+*mmdetection/
+*bop_toolkit/
+*data/
+*checkpoints/
+*tmp/
+
+*.pth
+*.beton
+*.pkl
+*.npy
+
+# VS Code
+.vscode/
+
+# LaTex generated files
+*.aux
+*.fdb*
+*.log
+*.out
+*.gz
+*.fls
+
+# Large file formats
+*.npz
+*.pth
