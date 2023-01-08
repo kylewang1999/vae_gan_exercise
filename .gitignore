@@ -11,6 +11,7 @@ PyTorch-VAE/
 *.beton
 *.pkl
 *.npy
+*.DS*
 
 # VS Code
 .vscode/
