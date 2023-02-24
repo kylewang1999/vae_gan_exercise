@@ -28,3 +28,6 @@ PyTorch-VAE/
 *.npz
 *.pth
 *.mat
+*.pt
+*.pickle
+*.pyc
